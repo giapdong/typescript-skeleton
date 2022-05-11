@@ -1,0 +1,9 @@
+node_modules/
+
+# Ignore for production mode
+dist/
+build/
+
+.env
+
+logs/
